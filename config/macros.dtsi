@@ -1,3 +1,9 @@
+macro_d: macro_d{
+compatible = "zmk,behavior-macro";
+label = "macro_d";
+#binding-cells = <0>;
+bindings = <&kp SINGLE_QUOTE>, <&kp LS(D)>;
+};
 macro_c: macro_c{
 compatible = "zmk,behavior-macro";
 label = "macro_c";

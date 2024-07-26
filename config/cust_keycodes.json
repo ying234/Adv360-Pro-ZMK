@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LA(F4)"
+		],
+		"description": "LA(F4)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
